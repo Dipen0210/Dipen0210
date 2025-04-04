@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/XGBoost-00A3E0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Statsmodels-1D5BB6?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
@@ -79,20 +78,9 @@
 
 #### 🧠 Advanced Models & Deep Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GPT--4-008080?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
   <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
   <img src="https://img.shields.io/badge/Transformer-6D4AFF?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt="Transformer" />
-  <img src="https://img.shields.io/badge/Llama%202-FF6F00?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 2" />
-</p>
-
-#### 🏗️ MLOps & Model Deployment  
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
-  <img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud AI" />
 </p>
 
 #### 📊 Data Visualization  
@@ -105,7 +93,6 @@
 #### 🏆 Reinforcement Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI--Gym-8C7FE0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-404C67?style=for-the-badge&logo=python&logoColor=white" alt="Stable Baselines3" />
 </p>
 
 ---
