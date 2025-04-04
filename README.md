@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Skills and Tools  
+### 🚀 Core Skills & Expertise  
 
 #### 🌐 Programming Languages  
 <p align="left">
@@ -58,10 +58,12 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
 </p>
 
-#### 🗄️ Database  
+#### 🗄️ Databases & Data Handling  
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 #### 📊 Machine Learning & AI  
@@ -72,9 +74,10 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/XGBoost-00A3E0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Statsmodels-1D5BB6?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
 </p>
 
-#### 🧠 Large Language Models (LLMs)  
+#### 🧠 Advanced Models & Deep Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GPT--4-008080?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
@@ -94,7 +97,6 @@
 
 #### 📊 Data Visualization  
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-2C5A7B?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
