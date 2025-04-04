@@ -14,13 +14,13 @@
 ---
 
 ### 👨‍💻 About Me
-<p align="center">
-  Passionate about building intelligent systems that solve real-world problems at scale. With a background in software engineering and machine learning, I specialize in developing end-to-end solutions across AI, LLMs, finance, and full-stack applications.  
-</p>
 
-
+- 🌟 **Summary**:  
+Passionate about building intelligent systems that solve real-world problems at scale, with a background in software engineering and machine learning/AI.
+   
 - 💡 **Current Focus**:  
   Building scalable **AI/ML models** and developing efficient software solutions.  
+
 - 🎓 **Education**:  
   Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning**.  
 ---
