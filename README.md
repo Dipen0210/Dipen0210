@@ -19,16 +19,6 @@
   Building scalable **AI/ML models** and developing efficient software solutions.  
 - 🎓 **Education**:  
   Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning**.  
-- 🔭 **Ongoing Projects**:  
-  - **Portfolio Optimization** using Machine Learning  
-  - **Reinforcement Learning for Financial Markets**  
-  - **Quantitative Trading Strategies**  
-- 🎯 **2025 Goals**:  
-  - Secure a **Quantitative Finance** role  
-  - Publish research in **Machine Learning for Finance**  
-- ⚡ **Fun Fact**:  
-  Passionate about **financial markets**, algorithmic trading, and **quant finance**!  
-
 ---
 
 ### 🚀 Core Skills & Expertise  
