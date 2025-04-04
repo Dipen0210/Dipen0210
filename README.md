@@ -66,11 +66,15 @@
   <img src="https://img.shields.io/badge/Statsmodels-1D5BB6?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
 </p>
 
-#### 🧠 Advanced Models & Deep Learning  
+#### 🧠 Large Language Models (LLMs) & NLP  
 <p align="left">
   <img src="https://img.shields.io/badge/GPT--4-008080?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
   <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
+  <img src="https://img.shields.io/badge/ELECTRA-34A853?style=for-the-badge&logo=google&logoColor=white" alt="ELECTRA" />
+  <img src="https://img.shields.io/badge/FinBERT-1E88E5?style=for-the-badge&logo=bert&logoColor=white" alt="FinBERT" />
   <img src="https://img.shields.io/badge/Transformer-6D4AFF?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt="Transformer" />
+</p>
+
 </p>
 
 #### 📊 Data Visualization  
