@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, Dipen Prajapati!</h1>
-<h3 align="center">🚀 Full Stack Developer | Machine Learning & Quant Finance Enthusiast | LLM & AI Innovator</h3>
+<h3 align="center"> Full Stack Developer | Machine Learning & Quant Finance Enthusiast </h3>
 ---
 
 <p align="center">
@@ -29,15 +29,13 @@ Passionate about building intelligent systems that solve real-world problems at 
 
 #### 💼 Full Stack Projects
 
-#### 🧠 Machine Learning Projects  
-
-#### 🤖 Deep Learning Projects  
+#### 📊 Machine Learning/Deep Learning Projects  
 
 #### 🧠 Large Language Model (LLM) Projects  
 
 #### 💰 Quantitative Finance Projects  
 
-#### 🎯 AI & NLP Projects  
+#### 💻 AI & NLP Projects  
 
 ---
 
@@ -60,6 +58,7 @@ Passionate about building intelligent systems that solve real-world problems at 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
 #### 🛠 Backend Development  
@@ -84,6 +83,8 @@ Passionate about building intelligent systems that solve real-world problems at 
   <img src="https://img.shields.io/badge/XGBoost-00A3E0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Statsmodels-1D5BB6?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
 </p>
 
 #### 🧠 Large Language Models (LLMs) & NLP  
