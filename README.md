@@ -93,14 +93,6 @@
 
 ---
 
-### 🛠️ Projects  
-- **Portfolio Optimization with Machine Learning**  
-- **Quantitative Trading Algorithm Development**  
-- **Reinforcement Learning for Financial Trading**  
-- **Personal Finance Tracker**  
-
----
-
 ### 📖 Courses  
 - **Operating Systems**  
 - **Database Management System (DBMS)**  
@@ -111,24 +103,6 @@
 - **Deep Learning**  
 - **Large Language Models**  
 - **Financial Data Mining**
-
----
-
-### 📖 Publications & Research  
-- **Title**: "Financial Market Prediction using Machine Learning" (Published 2025)  
-- **Topic**: Using ML models to predict stock prices and optimize trading strategies.  
-
----
-
-### 🧑‍💻 Contributions & Open-Source  
-- Contributed to **AI/ML repositories** on GitHub  
-- Open-source code for **financial models** and **reinforcement learning**  
-
----
-
-### 📚 Reading List  
-- *"Deep Learning for Finance" by Stefan Jansen*  
-- *"Machine Learning for Asset Managers" by Marcos López de Prado*  
 
 ---
 
