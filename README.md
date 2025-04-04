@@ -91,17 +91,6 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
----
-
-### 📈 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipenPrajapati&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipenPrajapati&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p>
   <h1 align="center"><b>✨ My Projects ✨</b></h1>
 </p>
