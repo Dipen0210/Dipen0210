@@ -14,12 +14,11 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 - 💡 **Current Focus**:  
   Building scalable **AI/ML models** and developing efficient software solutions.  
 - 🎓 **Education**:  
-  Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning **.  
+  Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning**.  
 - 🔭 **Ongoing Projects**:  
   - **Portfolio Optimization** using Machine Learning  
   - **Reinforcement Learning for Financial Markets**  
@@ -65,8 +64,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-------
-
 #### 📊 Machine Learning & AI  
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -75,14 +72,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/XGBoost-00A3E0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-</p>
-
-#### 🤖 Deep Learning & Neural Networks  
-<p align="left">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 #### 🧠 Large Language Models (LLMs)  
@@ -111,161 +100,39 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
-#### 🛠️ Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
-
-#### 📊 Machine Learning & AI  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
-
-#### 🤖 Deep Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-</p>
-
-#### 🗣 Natural Language Processing (NLP)  
-<p align="left">
-  <img src="https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers" />
-</p>
-
-#### 👀 Computer Vision  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-</p>
-
-#### 🚀 Model Deployment  
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-#### 🛠️ Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-#### 📊 Data Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-2C5A7B?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-
-#### 📊 Machine Learning & AI  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
-
-#### 🤖 Deep Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-</p>
-
-#### 🗣 Natural Language Processing (NLP)  
-<p align="left">
-  <img src="https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers" />
-</p>
-
-#### 👀 Computer Vision  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-</p>
-
-#### 🔎 Feature Engineering & Preprocessing  
-<p align="left">
-  <img src="https://img.shields.io/badge/Featuretools-FF4500?style=for-the-badge&logo=python&logoColor=white" alt="Featuretools" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
-
 #### 🏆 Reinforcement Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_Gym-0081A7?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" />
-  <img src="https://img.shields.io/badge/Ray_RLlib-FF4500?style=for-the-badge&logo=ray&logoColor=white" alt="Ray RLlib" />
+  <img src="https://img.shields.io/badge/OpenAI--Gym-8C7FE0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-404C67?style=for-the-badge&logo=python&logoColor=white" alt="Stable Baselines3" />
 </p>
-
-#### 📈 Time Series Analysis  
-<p align="left">
-  <img src="https://img.shields.io/badge/Statsmodels-00A676?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
-  <img src="https://img.shields.io/badge/Prophet-FF7F50?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Prophet" />
-</p>
-
-#### 🚀 Model Deployment  
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-#### 🏭 MLOps & Model Monitoring  
-<p align="left">
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
-  <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
-</p>
-
-#### ☁️ Cloud AI Services  
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
-  <img src="https://img.shields.io/badge/Google_AI_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI Platform" />
-  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure ML" />
-</p>
-
-#### 🏗️ Automated Machine Learning (AutoML)  
-<p align="left">
-  <img src="https://img.shields.io/badge/H2O.ai-20B2AA?style=for-the-badge&logo=h2o.ai&logoColor=white" alt="H2O.ai" />
-  <img src="https://img.shields.io/badge/Google_AutoML-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google AutoML" />
-</p>
-
-#### 🛠️ Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-#### 📊 Data Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-2C5A7B?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-
----------
-
-<p>
-  <h1 align="center"><b>✨ My Projects ✨</b></h1>
-</p>
-
-- 📊 **[Portfolio Optimization](https://github.com/DipenPrajapati/portfolio-optimization)** – Advanced portfolio strategies using ML.  
-- 📈 **[Quant Trading Bot](https://github.com/DipenPrajapati/quant-trading-bot)** – Automated trading bot using Reinforcement Learning.  
-- 📉 **[Options Pricing Models](https://github.com/DipenPrajapati/options-pricing)** – Monte Carlo & Black-Scholes pricing models.  
-- 💡 **[Sentiment Analysis for Stocks](https://github.com/DipenPrajapati/stock-sentiment-analysis)** – NLP-driven stock sentiment insights.  
 
 ---
 
-👨‍💻 **Let's Connect!**  
-💬 Reach out for collaborations in **Quant Finance, Algorithmic Trading, and AI for Finance**! 🚀  
+### 🛠️ Projects  
+- **Portfolio Optimization with Machine Learning**  
+- **Quantitative Trading Algorithm Development**  
+- **Reinforcement Learning for Financial Trading**  
+- **Personal Finance Tracker**  
+
+---
+
+### 📖 Publications & Research  
+- **Title**: "Financial Market Prediction using Machine Learning" (Published 2025)  
+- **Topic**: Using ML models to predict stock prices and optimize trading strategies.  
+
+---
+
+### 🧑‍💻 Contributions & Open-Source  
+- Contributed to **AI/ML repositories** on GitHub  
+- Open-source code for **financial models** and **reinforcement learning**  
+
+---
+
+### 📚 Reading List  
+- *"Deep Learning for Finance" by Stefan Jansen*  
+- *"Machine Learning for Asset Managers" by Marcos López de Prado*  
+
+---
+
+### 🔍 Let’s Connect!  
+Looking to collaborate on machine learning research, finance applications, or just chat about tech! Reach out via email or LinkedIn.  
