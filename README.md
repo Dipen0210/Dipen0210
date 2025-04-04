@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, Dipen Prajapati!</h1>
+<h1 align="center">👋 Hey there, I'm Dipen Prajapati!</h1>
 <h3 align="center"> Full Stack Developer | Machine Learning & Quant Finance Enthusiast </h3>
 ---
 
