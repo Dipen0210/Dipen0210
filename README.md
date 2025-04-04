@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey there, Dipen Prajapati!</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | Software Engineer </h3>
-
+<h3 align="center">🚀 Full Stack Developer | Machine Learning & Quant Finance Enthusiast | LLM & AI Innovator</h3>
 ---
 
 <p align="center">
@@ -15,10 +14,31 @@
 ---
 
 ### 👨‍💻 About Me
+<p align="center">
+  Passionate about building intelligent systems that solve real-world problems at scale. With a background in software engineering and machine learning, I specialize in developing end-to-end solutions across AI, LLMs, finance, and full-stack applications.  
+</p>
+
+
 - 💡 **Current Focus**:  
   Building scalable **AI/ML models** and developing efficient software solutions.  
 - 🎓 **Education**:  
   Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning**.  
+---
+
+### 🧩 Projects by Category  
+
+#### 💼 Full Stack Projects
+
+#### 🧠 Machine Learning Projects  
+
+#### 🤖 Deep Learning Projects  
+
+#### 🧠 Large Language Model (LLM) Projects  
+
+#### 💰 Quantitative Finance Projects  
+
+#### 🎯 AI & NLP Projects  
+
 ---
 
 ### 🚀 Core Skills & Expertise  
@@ -105,6 +125,3 @@
 - **Financial Data Mining**
 
 ---
-
-### 🔍 Let’s Connect!  
-Looking to collaborate on machine learning research, finance applications, or just chat about tech! Reach out via email or LinkedIn.  
