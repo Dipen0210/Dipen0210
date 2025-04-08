@@ -18,7 +18,7 @@
 Passionate about building intelligent systems that solve real-world problems at scale, with a background in software engineering and machine learning/AI.
    
 - 💡 **Current Focus**:  
-  Building scalable **AI/ML models** and developing efficient software solutions.  
+ Building scalable **AI/ML models** and developing efficient software solutions for the Finance, Healthcare, and Automation industries.
 
 - 🎓 **Education**:  
   Graduate Student in **Electrical & Computer Engineering** with a specialization in **Machine Learning**.  
