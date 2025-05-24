@@ -28,7 +28,7 @@ Passionate about building intelligent systems that solve real-world problems at 
 
 #### 💼 Full Stack Projects
 
-#### 📊 Machine Learning/Deep Learning Projects  
+#### 📊 Machine Learning/Deep Learning/Computer Vision Projects  
 
 #### 🧠 Large Language Model (LLM) Projects  
 
