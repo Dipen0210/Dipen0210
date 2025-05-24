@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Dipen Prajapati!</h1>
-<h3 align="center"> Full Stack Developer | Machine Learning & Quant Finance Enthusiast </h3>
+<h3 align="center"> Full Stack Developer | Artificial Intelligence/Machine Learning & Quant Finance Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dp560/">
