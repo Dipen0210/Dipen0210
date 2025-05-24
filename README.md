@@ -28,11 +28,11 @@ Passionate about building intelligent systems that solve real-world problems at 
 
 #### 💼 Full Stack Projects
 
-#### 📊 Machine Learning/Deep Learning Projects
+#### 📊 Machine Learning & Deep Learning Projects
 
 #### 💻 Computer Vision & NLP Projects
 
-#### 🧠 Large Language Model (LLM)/Agentic AI Projects
+#### 🧠 Large Language Model (LLM) & Agentic AI Projects
 
 #### 💰 Quantitative Finance Projects
 
