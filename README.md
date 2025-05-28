@@ -21,7 +21,7 @@ Passionate about building intelligent systems that solve real-world problems wit
  Building scalable **AI/ML models** and developing efficient software solutions for the Finance, Healthcare, and Automation industries.
 
 - 🎓 **Education**:  
-  Graduate Student in **Electrical & Computer Engineering** with a specialization in **Artificial intelligence & Machine Learning**.  
+  Graduate Student in **Electrical & Computer Engineering** with a specialization in **Artificial intelligence & Machine Learning in Rutgers University-New Brunswick**.  
 ---
 
 ### 🧩 Projects by Category  
