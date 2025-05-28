@@ -26,8 +26,6 @@ Passionate about building intelligent systems that solve real-world problems at 
 
 ### 🧩 Projects by Category  
 
-#### 💼 Full Stack Projects
-
 #### 📊 Machine Learning & Deep Learning Projects
 
 #### 💻 Computer Vision & NLP Projects
@@ -36,7 +34,7 @@ Passionate about building intelligent systems that solve real-world problems at 
 
 #### 💰 Quantitative Finance Projects
 
-
+#### 💼 Full Stack Projects
 
 ---
 
