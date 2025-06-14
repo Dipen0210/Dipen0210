@@ -114,9 +114,6 @@ Passionate about building intelligent systems that solve real-world problems wit
 ---
 
 ### 📖 Courses  
-- **Operating Systems**  
-- **Database Management System (DBMS)**  
-- **Object-Oriented Programming**  
 - **Machine Learning**  
 - **Cloud Computing and Big Data**  
 - **Programming Finance**  
