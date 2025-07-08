@@ -46,7 +46,7 @@ Passionate about building intelligent systems that solve real-world problems wit
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
+<!--   <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" /> -->
 </p>
 
 #### 🗄️ Databases & Data Handling  
