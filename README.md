@@ -83,10 +83,7 @@ Passionate about building intelligent systems that solve real-world problems wit
 </p>
 
 
-#### 🏆 Reinforcement Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI--Gym-8C7FE0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" />
-</p>
+<!--   <img src="https://img.shields.io/badge/OpenAI--Gym-8C7FE0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" /> -->
 
 #### 🎨 Frontend Development  
 <p align="left">
