@@ -49,12 +49,6 @@ Passionate about building intelligent systems that solve real-world problems wit
 <!--   <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" /> -->
 </p>
 
-#### 🗄️ Databases & Data Handling  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
 #### 📊 Machine Learning & AI  
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -109,6 +103,12 @@ Passionate about building intelligent systems that solve real-world problems wit
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+</p>
+
+#### 🗄️ Databases & Data Handling  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
