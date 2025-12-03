@@ -117,5 +117,9 @@ Passionate about building intelligent systems that solve real-world problems wit
 - **Deep Learning**  
 - **Large Language Models**  
 - **Financial Data Mining**
+- **Machine Vision**
+- **Robotics and Society**
+- **Algo trading and Portfolio Management**
+  
 
 ---
