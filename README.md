@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🌟 **Summary**:  
-Passionate about building intelligent systems that solve real-world problems with a background in Machine Learning/AI and Software Engineering.
+Passionate about building intelligent systems that solve real-world problems with a background in AI/ML and Software Engineering.
    
 - 💡 **Current Focus**:  
  Building scalable developing efficient **Software solutions** as well as **AI/ML models and agents** for the Finance, Healthcare, and Automation industries.
