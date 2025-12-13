@@ -18,7 +18,7 @@
 Passionate about building intelligent systems that solve real-world problems with a background in AI/ML and Software Engineering.
    
 - 💡 **Current Focus**:  
- Building scalable developing efficient **Software solutions** as well as **AI/ML models and agents** for the Finance, Healthcare, and Automation industries.
+ Building scalable developing efficient **Software solutions** as well as **AI/ML models and agents** for the Finance, Healthcare, and Manufacturing & Industrial Automation.
 
 - 🎓 **Education**:  
   Graduate Student in **Electrical & Computer Engineering** with a specialization in **Artificial intelligence & Machine Learning** at **Rutgers University-New Brunswick**.  
