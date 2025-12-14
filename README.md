@@ -14,8 +14,6 @@
 
 ### 👨‍💻 About Me
 
-**Learn FAST | Build SMART | Scale BIG**
-
 - 🌟 **Summary**:  
 Passionate about building intelligent systems that solve real-world problems with a background in AI/ML and Software Engineering.
    
