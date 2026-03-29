@@ -112,14 +112,14 @@ Passionate about building intelligent systems that solve real-world problems wit
 
 ### 📖 Courses  
 - **Machine Learning**  
+- **Deep Learning**
+- **Machine Vision**  
+- **Large Language Models**  
+- **Robotics and Society**
 - **Cloud Computing and Big Data**  
 - **Programming Finance**  
-- **Deep Learning**  
-- **Large Language Models**  
 - **Financial Data Mining**
-- **Machine Vision**
-- **Robotics and Society**
 - **Algo trading and Portfolio Management**
-  
+- **Derivatives**  
 
 ---
