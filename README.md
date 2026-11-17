@@ -28,7 +28,7 @@ Passionate about building intelligent systems that solve real-world problems wit
 
 #### 📊 Machine Learning & Deep Learning Projects
 
-#### 💰 Quantitative Finance Projects
+#### 💰 Quantitative Research & Trading Projects
 
 #### 🧠 Large Language Model (LLM) & Agentic AI Projects
 
