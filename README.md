@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Dipen Prajapati!</h1>
-<h3 align="center"> AI/ML Engineer | AI Product Manager | Full Stack Engineer  </h3>
+<h3 align="center"> AI Product Manager | AI/ML Engineer | Full Stack Engineer  </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dp560/">
