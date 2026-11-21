@@ -19,8 +19,11 @@
 ### 👨‍💻 About Me
 
 - 🚀 **Now:** Founding Product Manager at **[RunTheTrip](https://www.runthetrip.com/)**, building an AI group trip platform that replaces 6 separate tools with one app for tour operators. We already have a pilot customer with 96 travelers.
+  
 - 🧭 **How I work:** I think like a product manager and build like an engineer. Every project starts with a problem worth solving, runs through design and architecture, and ends with something deployed.
+  
 - 💼 **Before:** Product strategy for a DeFi launch at Standard, banker at Rutgers Federal Credit Union, application support engineer at Kochar Tech, and process improvement lead at JSW Steel.
+
 - 🎓 **Education:** MS in Electrical & Computer Engineering (AI/ML) at Rutgers University–New Brunswick.
 
 ---
