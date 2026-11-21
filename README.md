@@ -1,11 +1,15 @@
-<h1 align="center">👋 Hey there, I'm Dipen Prajapati!</h1>
-<h3 align="center"> AI Product Manager | AI/ML Engineer | Full Stack Engineer  </h3>
+<h1 align="center">Hey, I'm Dipen Prajapati 👋</h1>
+<h3 align="center">Product Manager · AI Engineer · Full Stack Engineer</h3>
+<p align="center">I build products across AI, software, and fintech.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dp560/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://dipen0210.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-4F9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:dipen.internship.job560@gmail.com">
+  <a href="https://www.linkedin.com/in/dp560/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:dipenprajapati360@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -14,112 +18,93 @@
 
 ### 👨‍💻 About Me
 
-- 🌟 **Summary**:  
-Passionate about building intelligent systems that solve real-world problems with a background in AI/ML and Software Engineering.
-   
-- 💡 **Current Focus**:  
- Building scalable developing efficient **Software solutions** as well as **AI/ML models and agents** for Finance, Healthcare and Manufacturing & Industrial Automation sectors.
-
-- 🎓 **Education**:  
-  Graduate Student in **Electrical & Computer Engineering** with a specialization in **Artificial intelligence & Machine Learning** at **Rutgers University-New Brunswick**.  
----
-
-### 🧩 Projects by Category  
-
-#### 📊 Machine Learning & Deep Learning Projects
-
-#### 💰 Quantitative Research & Trading Projects
-
-#### 🧠 Large Language Model (LLM) & Agentic AI Projects
-
-#### 💻 Computer Vision & NLP Projects
-
-#### 💼 Full Stack Projects
+- 🚀 **Now:** Founding Product Manager at **[RunTheTrip](https://www.runthetrip.com/)**, building an AI group trip platform that replaces 6 separate tools with one app for tour operators. We already have a pilot customer with 96 travelers.
+- 🧭 **How I work:** I think like a product manager and build like an engineer. Every project starts with a problem worth solving, runs through design and architecture, and ends with something deployed.
+- 💼 **Before:** Product strategy for a DeFi launch at Standard, banker at Rutgers Federal Credit Union, application support engineer at Kochar Tech, and process improvement lead at JSW Steel.
+- 🎓 **Education:** MS in Electrical & Computer Engineering (AI/ML) at Rutgers University–New Brunswick.
 
 ---
 
-### 🚀 Core Skills & Expertise  
+### 🧩 Products
 
-#### 🌐 Programming Languages  
+| Product | What it does | Links |
+|---|---|---|
+| **MaintenanceAI** | AI platform for planning, scheduling, and managing industrial plant maintenance | [Live](https://maintenanceaitool.vercel.app/) · [PRD](https://boulder-skateboard-b79.notion.site/MaintenanceAI-PRD-40a960f66f8a81bfbfd5f472fab1d2ba) · [Repo](https://github.com/Dipen0210/MaintenanceAI) |
+| **ConsultAI** | AI consulting workspace for business evaluation at startups and SMBs | [Live](https://consultaitool.vercel.app/) · [PRD](https://boulder-skateboard-b79.notion.site/ConsultAI-PRD-40f960f66f8a81e19ab8d08a5935609b) · [Repo](https://github.com/Dipen0210/ConsultAI) |
+| **FinCity** | Open-world simulation game that teaches personal finance | [Live](https://fincity-game.vercel.app/) · [PRD](https://pickle-icicle-7ef.notion.site/Fincity-PRD-4083c6cdba008109b9d0edafbee21bb4) |
+| **Qengine** | Quant platform for portfolio optimization, strategy switching, multi-agent trading, and options hedging | [Live](https://qengine-four.vercel.app/) · [PRD](https://boulder-skateboard-b79.notion.site/Qengine-413960f66f8a80d4b517f50aaaae2f20) |
+
+Qengine's engines: [portfolio-engine](https://github.com/Dipen0210/portfolio-engine) · [Strategy-Switcher-Engine](https://github.com/Dipen0210/Strategy-Switcher-Engine) · [Multi-Agent-Quant](https://github.com/Dipen0210/Multi-Agent-Quant) · [option-hedging](https://github.com/Dipen0210/option-hedging)
+
+### 🧠 AI Engineering
+
+| Project | What it does | Links |
+|---|---|---|
+| **AIatomy** | 24 interactive AI playgrounds with LLM evaluation, guardrails, and execution tracing | [Live](https://aiatomy.vercel.app/) |
+| **SmartVendor** | AI supply chain and vendor intelligence with a price-aggregation engine | [Demo](https://www.youtube.com/watch?v=6XDisM5Hb2I) · [Repo](https://github.com/Dipen0210/smartVendor) |
+| **MedXAI** | Explainable 3D ResNet-18 that detects tampered lung CT scans (89% accuracy) | [Repo](https://github.com/Dipen0210/MedXAI) |
+| **TrajGuideAI** | Agentic vehicle trajectory analysis on a two-layer LSTM | [Repo](https://github.com/Dipen0210/TrajGuideAI) |
+
+---
+
+### 🛠 Stack
+
+**Languages & Frameworks**
 <p align="left">
-<!--   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /> -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<!--   <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" /> -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-#### 📊 Machine Learning & AI  
+**LLMs & Agentic AI**
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/RAG-6D4AFF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+</p>
+
+**ML / Deep Learning**
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-00A3E0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/Statsmodels-1D5BB6?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-
-</p>
-
-#### 🧠 Large Language Models (LLMs) & NLP  
-<p align="left">
-  <img src="https://img.shields.io/badge/GPT--4-008080?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
-  <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
-  <img src="https://img.shields.io/badge/ELECTRA-34A853?style=for-the-badge&logo=google&logoColor=white" alt="ELECTRA" />
-  <img src="https://img.shields.io/badge/FinBERT-1E88E5?style=for-the-badge&logo=bert&logoColor=white" alt="FinBERT" />
-  <img src="https://img.shields.io/badge/Transformer-6D4AFF?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt="Transformer" />
-</p>
-
-</p>
-
-#### 📊 Data Analysis Libraries  
-<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-2C5A7B?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-
-<!--   <img src="https://img.shields.io/badge/OpenAI--Gym-8C7FE0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" /> -->
-
-#### 🎨 Frontend Development  
+**Databases & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-#### 🛠 Backend Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-</p>
-
-#### 🗄️ Databases & Data Handling  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+**Product**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
 </p>
 
 ---
 
-### 📖 Courses  
-- **Machine Learning**  
-- **Deep Learning**
-- **Machine Vision**  
-- **Large Language Models**  
-- **Robotics and Society**
-- **Cloud Computing and Big Data**  
-- **Programming Finance**  
-- **Financial Data Mining**
-- **Algo trading and Portfolio Management**
-- **Derivatives**  
-
----
+### 📖 Courses
+Machine Learning · Deep Learning · Computer Vision · Large Language Models · Cloud Computing and Big Data · Programming Finance · Financial Data Mining · Algo Trading and Portfolio Management · Derivatives · Robotics and Society
