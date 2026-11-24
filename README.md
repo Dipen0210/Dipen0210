@@ -22,7 +22,7 @@
   
 - 🧭 **How I work:** I think like a product manager and build like an engineer. Every project starts with a problem worth solving, runs through design and architecture, and ends with something deployed.
   
-- 💼 **Before:** Product strategy for a DeFi launch at Standard, banker at Rutgers Federal Credit Union, application support engineer at Kochar Tech, and process improvement lead at JSW Steel.
+- 💼 **Before:** Product strategy for a DeFi launch at Standard, banker at Rutgers Federal Credit Union, application support engineer at Kochar Tech, and assistant project manager (automation) at JSW Steel.
 
 - 🎓 **Education:** MS in Electrical & Computer Engineering (AI/ML) at Rutgers University–New Brunswick.
 
